@@ -31,8 +31,8 @@ const Projects = () => {
       id: 4,
       src: docTracker,
       appName: "Incoming-Outgoing Doc tracker",
-      href: "",
-      link: "",
+      href: "https://p6mernapp.netlify.app/",
+      link: "https://github.com/xDkrams/p6mern",
     },
   ];
   return (
