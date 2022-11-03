@@ -28,7 +28,7 @@ const Home = () => {
           <div className="flex">
             <button
               onClick={handleDownload}
-              className="w-fit px-6 py-3 m-4 rounded-md bg-gradient-to-r from-blue-200 to-cyan-300 cursor-pointer"
+              className="w-fit px-6 py-3 m-4 rounded-md bg-gradient-to-r from-blue-200 to-cyan-300 cursor-pointer hover:scale-90"
             >
               Resume
             </button>
@@ -36,7 +36,7 @@ const Home = () => {
               to="projects"
               smooth
               duration={500}
-              className="w-fit px-6 py-3 m-4 flex items-center rounded-md bg-gradient-to-r from-blue-200 to-cyan-300 cursor-pointer"
+              className="w-fit px-6 py-3 m-4 flex items-center rounded-md bg-gradient-to-r from-blue-200 to-cyan-300 cursor-pointer hover:scale-90"
             >
               Projects
             </Link>
