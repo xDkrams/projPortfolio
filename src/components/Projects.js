@@ -31,8 +31,8 @@ const Projects = () => {
       id: 4,
       src: todos,
       appName: "Todo App",
-      href: "https://dashboard.heroku.com/apps/todoapp025/deploy/github",
-      link: "https://todoapp025.herokuapp.com/",
+      href: "https://todoapp025.herokuapp.com/",
+      link: "https://github.com/xDkrams/Todo",
     },
   ];
   return (
