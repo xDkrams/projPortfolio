@@ -11,10 +11,11 @@ const About = () => {
           </p>
         </div>
         <p className="text-lg text-justify mt-20">
-          A government employee, that was formerly working as an administrative
-          staff in an Executive Office and who is eager to learn more about web
-          designing and development. And took a brave step to enroll in a 6
-          month Bootcamp and work as a programmer
+          A government employee, formerly working as a administrative staff in
+          Executive Office, who is eager to learn more concerning Web Designing
+          and Development. And with the continues breakthrough of technology,
+          decided to step up and enrolled in a 6 month Bootcamp and eventually
+          work as a programmer.
         </p>
       </div>
     </div>

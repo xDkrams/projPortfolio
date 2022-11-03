@@ -1,20 +1,19 @@
 Hi there!
-Here as something you to know first about me,
+Here as something you need to know first about me,
 
-• I'am a career shifter
+• I'am a career shifter.
 
-• Currently working in the government as a programmer
+• Currently working in the government as a programmer.
 
-• Currently learning on web development specially on MERN and
-eager to learn more on react native
+• Currently learning on web development specially on MERN and eager to learn more on react native
 
 Features
 
-1. Viewers can scroll from up to button
+1. Viewers can scroll from up to button.
 
-2. Viewers can download update resume via download button
+2. Viewers can download updated resume via download button.
 
-3. Viewers can view all the project demos and github repo's
+3. Viewers can view all the project demo's and github repo's.
 
 Projects:
 
