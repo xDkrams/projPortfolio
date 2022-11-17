@@ -30,7 +30,7 @@ const Home = () => {
               onClick={handleDownload}
               className="w-fit px-6 py-3 m-4 rounded-md bg-gradient-to-r from-blue-200 to-cyan-300 cursor-pointer hover:scale-90"
             >
-              Resume
+              Download
             </button>
             <Link
               to="projects"
